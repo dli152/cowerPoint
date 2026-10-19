@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cowerPoint.iml" filepath="$PROJECT_DIR$/.idea/cowerPoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/resvg.iml" filepath="$PROJECT_DIR$/.idea/resvg.iml" />
     </modules>
   </component>
 </project>
