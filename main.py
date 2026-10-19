@@ -1,8 +1,5 @@
 import tkinter as tk
 import tkinter.ttk as ttk
-import tkinter.messagebox as tkmb
-import tkinter.filedialog as tkfd
-import json
 
 def destroyinsideparent(parent):
     for child in parent.winfo_children():
